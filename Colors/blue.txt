@@ -1,0 +1,12 @@
+This is the blue file
+
+1. With PS Terminal, Navigate to your Practice folder
+2. Create the following Directories - Projects, Tests, Modules
+3. Change Directory to Projects and create 3 files - index.html, style.css, script.js
+4. Change Directory Tests and create 2 files - jest.js, mocha.js
+5. Change Directory to Practice Directory
+6. Delete the Modules Directory
+7. Change Directory to Tests and delete the file jest.js
+8. Change Directory to Practice Directory
+9. Delete the Tests Directory
+10. From your Terminal open the Projects Directory in Code Editor
